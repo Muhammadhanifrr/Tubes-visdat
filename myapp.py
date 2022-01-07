@@ -1,7 +1,6 @@
 # Data handling
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 # Bokeh libraries
 from bokeh.io import output_file, output_notebook,curdoc
